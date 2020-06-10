@@ -1,0 +1,57 @@
+PAGESIZE 6, 8 INCHES;
+CELLSIZE MINIMUM;
+PRINTERPAGESIZE 8.5, 11;
+MARGINS 0.5, 0.5, 0.5, 0.5;
+ORIENTATION PORTRAIT;
+PRINTSCALE 100;
+WINDOW UNION;
+PROJECTION DEFAULT;
+AOI NONE;
+OPTIMIZE NO;
+RASTER {
+	ID 1;
+	TITLE "n1_ndvi_test";
+	POSITION 1.26667, 1;
+	FILENAME "d:/gis应用/remote_sence/1_data/ndvi_test.img";
+	INTERPOLATION NEAREST;
+	THEMATIC;
+	DATATYPE UNSIGNED8;
+	DECLARE "Integer";
+	COMPRESSION UNCOMPRESSED;
+	COORDINATES MAP;
+	AOI NONE;
+	RECODE NO;
+	CHILD 3;
+}
+RASTER {
+	ID 2;
+	TITLE "n2_spacial_associate_subset_final_kaifa_land_clump_eliminate";
+	POSITION 3.56666, 1.02222;
+	FILENAME "d:/gis应用/remote_sence/1_data/1995空闲季/spacial_associate_subset_final_kaifa_land_clump_eliminate.img";
+	INTERPOLATION NEAREST;
+	THEMATIC;
+	DATATYPE UNSIGNED8;
+	DECLARE "Integer";
+	COMPRESSION UNCOMPRESSED;
+	COORDINATES MAP;
+	AOI NONE;
+	RECODE NO;
+	CHILD 3;
+}
+FUNCTION {
+	ID 3;
+	TITLE "ZONAL MEAN ";
+	POSITION 2.47778, 3.05555;
+	VALUE "ZONAL MEAN ( $n2_spacial_associate_subset_final_kaifa_land_clump_eliminate , $n1_ndvi_test , IGNORE 0 ) ";
+	AREA UNION;
+	CHILD 4;
+}
+TABLE {
+	ID 4;
+	TITLE "n4_Output";
+	POSITION 2.52222, 4.77777;
+	SIZE 0;
+	DATATYPE DOUBLE;
+	OUTPUT;
+	WRITE "d:/gis应用/remote_sence/1_data/ndvi_mean.tbl";
+}

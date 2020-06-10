@@ -1,0 +1,62 @@
+PAGESIZE 6.48889, 8 INCHES;
+CELLSIZE MINIMUM;
+PRINTERPAGESIZE 8.5, 11;
+MARGINS 0.5, 0.5, 0.5, 0.5;
+ORIENTATION PORTRAIT;
+PRINTSCALE 100;
+WINDOW UNION;
+PROJECTION DEFAULT;
+AOI NONE;
+OPTIMIZE NO;
+RASTER {
+	ID 1;
+	TITLE "n1_123_38_classic1_2_class3_c9_c8_c5_c8_c6_c4_climp_elimp_reagain";
+	POSITION 1.43333, 1.04444;
+	FILENAME "d:/gis应用/remote_sence/1_data/1995空闲季/123_038_1995_12/123_38_classic1_2_class3_c9_c8_c5_c8_c6_c4_climp_elimp_reagain.img";
+	INTERPOLATION NEAREST;
+	THEMATIC;
+	DATATYPE UNSIGNED8;
+	DECLARE "Integer";
+	COMPRESSION UNCOMPRESSED;
+	COORDINATES MAP;
+	AOI NONE;
+	RECODE NO;
+	CHILD 3;
+}
+RASTER {
+	ID 2;
+	TITLE "n2_space_5_8_4_7_3_9_10_6_climp_elimp_reagain";
+	POSITION 4.98889, 1.01111;
+	FILENAME "d:/gis应用/remote_sence/1_data/2000空闲季/space_5_8_4_7_3_9_10_6_climp_elimp_reagain.img";
+	INTERPOLATION NEAREST;
+	THEMATIC;
+	DATATYPE UNSIGNED8;
+	DECLARE "Integer";
+	COMPRESSION UNCOMPRESSED;
+	COORDINATES MAP;
+	AOI NONE;
+	RECODE NO;
+	CHILD 3;
+}
+FUNCTION {
+	ID 3;
+	TITLE "$n1_123_38_classic1_2_class3_c9_c8_c5_c8_c6_c4_climp_elimp_reagain*10+$n2_space_5_8_4_7_3_9_10_6_climp_elimp_reagain";
+	POSITION 3.05556, 2.53333;
+	VALUE "$n1_123_38_classic1_2_class3_c9_c8_c5_c8_c6_c4_climp_elimp_reagain*10+$n2_space_5_8_4_7_3_9_10_6_climp_elimp_reagain";
+	AREA UNION;
+	CHILD 4;
+}
+RASTER {
+	ID 4;
+	TITLE "n4_123_38_classic1_2_class3_c9_c8_c5_c8_c6_c4_climp_elimp_change3";
+	POSITION 2.87778, 4.66667;
+	FILENAME "d:/gis应用/remote_sence/1_data/1995空闲季/123_038_1995_12/123_38_classic1_2_class3_c9_c8_c5_c8_c6_c4_climp_elimp_change3.img";
+	NEWFILE;
+	INTERPOLATION NEAREST;
+	THEMATIC;
+	DATATYPE UNSIGNED8;
+	DECLARE "Integer";
+	COMPRESSION UNCOMPRESSED;
+	COORDINATES MAP;
+	RECODE NO;
+}
