@@ -1,0 +1,39 @@
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\bin\Debug\学习成绩计算器.exe.config
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\bin\Debug\学习成绩计算器.exe
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\bin\Debug\学习成绩计算器.pdb
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.Form1.resources
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.Properties.Resources.resources
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.csproj.GenerateResource.Cache
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.exe
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.pdb
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\bin\Debug\学习成绩计算器.exe.config
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.exe
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.pdb
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\bin\Debug\学习成绩计算器.exe
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\bin\Debug\学习成绩计算器.pdb
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.Form1.resources
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.Properties.Resources.resources
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学习成绩计算器\学习成绩计算器\obj\Debug\学习成绩计算器.csproj.GenerateResource.Cache
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\bin\Debug\学习成绩计算器.exe.config
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.exe
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.pdb
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.csprojResolveAssemblyReference.cache
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.Form1.resources
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.Properties.Resources.resources
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.csproj.GenerateResource.Cache
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\bin\Debug\学习成绩计算器.exe
+E:\【C#】\学校课堂\王朋坤191012\学习成绩计算器\bin\Debug\学习成绩计算器.pdb
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\bin\Debug\学习成绩计算器.exe.config
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.exe
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.pdb
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\bin\Debug\学习成绩计算器.exe
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\bin\Debug\学习成绩计算器.pdb
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.csprojResolveAssemblyReference.cache
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.Form1.resources
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.Properties.Resources.resources
+E:\C#\代码\课堂-作业\王朋坤191012\学习成绩计算器\obj\Debug\学习成绩计算器.csproj.GenerateResource.Cache
+E:\C#\代码\课堂-作业\王朋坤191012-三国排序\学习成绩计算器\bin\Debug\学习成绩计算器.exe.config
+E:\C#\代码\课堂-作业\王朋坤191012-三国排序\学习成绩计算器\obj\Debug\学习成绩计算器.exe
+E:\C#\代码\课堂-作业\王朋坤191012-三国排序\学习成绩计算器\obj\Debug\学习成绩计算器.pdb

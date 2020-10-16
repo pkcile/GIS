@@ -1,0 +1,27 @@
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\bin\Debug\计算器.exe.config
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\bin\Debug\计算器.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\bin\Debug\计算器.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\obj\Debug\计算器.Form1.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\obj\Debug\计算器.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器\计算器\obj\Debug\计算器.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\bin\Debug\计算器.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\obj\Debug\计算器.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\obj\Debug\计算器.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\bin\Debug\计算器.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\bin\Debug\计算器.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\obj\Debug\计算器.exe
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\obj\Debug\计算器.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\bin\Debug\计算器.exe
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\【代码】计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache

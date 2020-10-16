@@ -1,0 +1,12 @@
+E:\C#\代码\课堂-作业\王朋坤191214\数据库作业老师学生成绩查询\bin\Debug\数据库作业老师学生成绩查询.exe.config
+E:\C#\代码\课堂-作业\王朋坤191214\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.csprojResolveAssemblyReference.cache
+E:\C#\代码\课堂-作业\王朋坤191214\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.Form1.resources
+E:\C#\代码\课堂-作业\王朋坤191214\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.Form2.resources
+E:\C#\代码\课堂-作业\王朋坤191214\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.Properties.Resources.resources
+E:\C#\代码\课堂-作业\王朋坤191214\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.csproj.GenerateResource.Cache
+E:\C#\代码\课堂-作业\王朋坤191214-数据库2\数据库作业老师学生成绩查询\bin\Debug\数据库作业老师学生成绩查询.exe.config
+E:\C#\代码\课堂-作业\王朋坤191214-数据库2\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.csprojResolveAssemblyReference.cache
+E:\C#\代码\课堂-作业\王朋坤191214-数据库2\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.Form1.resources
+E:\C#\代码\课堂-作业\王朋坤191214-数据库2\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.Form2.resources
+E:\C#\代码\课堂-作业\王朋坤191214-数据库2\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.Properties.Resources.resources
+E:\C#\代码\课堂-作业\王朋坤191214-数据库2\数据库作业老师学生成绩查询\obj\Debug\数据库作业老师学生成绩查询.csproj.GenerateResource.Cache

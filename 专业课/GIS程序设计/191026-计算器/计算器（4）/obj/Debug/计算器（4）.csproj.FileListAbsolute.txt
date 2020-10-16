@@ -1,0 +1,18 @@
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\bin\Debug\计算器（4）.exe.config
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\bin\Debug\计算器（4）.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\bin\Debug\计算器（4）.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\obj\Debug\计算器（4）.csprojResolveAssemblyReference.cache
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\obj\Debug\计算器_4_.Form1.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\obj\Debug\计算器_4_.Properties.Resources.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\obj\Debug\计算器（4）.csproj.GenerateResource.Cache
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\obj\Debug\计算器（4）.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\计算器（4）\计算器（4）\obj\Debug\计算器（4）.pdb
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\bin\Debug\计算器（4）.exe.config
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\obj\Debug\计算器（4）.exe
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\obj\Debug\计算器（4）.pdb
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\bin\Debug\计算器（4）.exe
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\bin\Debug\计算器（4）.pdb
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\obj\Debug\计算器（4）.csprojResolveAssemblyReference.cache
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\obj\Debug\计算器_4_.Form1.resources
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\obj\Debug\计算器_4_.Properties.Resources.resources
+E:\C#\代码\课堂-作业\王朋坤191026\计算器（4）\obj\Debug\计算器（4）.csproj.GenerateResource.Cache

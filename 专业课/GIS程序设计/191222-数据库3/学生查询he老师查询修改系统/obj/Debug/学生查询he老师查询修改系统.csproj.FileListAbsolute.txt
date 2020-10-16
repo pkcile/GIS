@@ -1,0 +1,48 @@
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe.config
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csprojResolveAssemblyReference.cache
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Properties.Resources.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csproj.GenerateResource.Cache
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form2.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form3.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form4.resources
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学生查询he老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.登录页面.resources
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe.config
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.exe
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.pdb
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.pdb
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.登录页面.resources
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form2.resources
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form3.resources
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form4.resources
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Properties.Resources.resources
+C:\Users\pkcile\Desktop\学生查询和老师查询修改系统\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe.config
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.exe
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.pdb
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.pdb
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.登录页面.resources
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form2.resources
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form3.resources
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form4.resources
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Properties.Resources.resources
+C:\Users\pkcile\Desktop\王朋坤191222\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csproj.GenerateResource.Cache
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe.config
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.exe
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.pdb
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csprojResolveAssemblyReference.cache
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.登录页面.resources
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form2.resources
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form3.resources
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Form4.resources
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.Properties.Resources.resources
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\obj\Debug\学生查询he老师查询修改系统.csproj.GenerateResource.Cache
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.exe
+E:\C#\代码\课堂-作业\王朋坤191222-数据库3\学生查询he老师查询修改系统\bin\Debug\学生查询he老师查询修改系统.pdb

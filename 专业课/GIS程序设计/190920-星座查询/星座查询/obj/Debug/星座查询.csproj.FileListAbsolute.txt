@@ -1,0 +1,42 @@
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\bin\Debug\星座查询.exe.config
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\bin\Debug\星座查询.exe
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\bin\Debug\星座查询.pdb
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\obj\Debug\星座查询.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\obj\Debug\星座查询.Form1.resources
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\obj\Debug\星座查询.Properties.Resources.resources
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\obj\Debug\星座查询.csproj.GenerateResource.Cache
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\obj\Debug\星座查询.exe
+C:\Users\pkcile\Documents\Visual Studio 2012\Projects\星座查询\星座查询\obj\Debug\星座查询.pdb
+C:\Users\pkcile\Desktop\星座查询\星座查询\bin\Debug\星座查询.exe.config
+C:\Users\pkcile\Desktop\星座查询\星座查询\obj\Debug\星座查询.exe
+C:\Users\pkcile\Desktop\星座查询\星座查询\obj\Debug\星座查询.pdb
+C:\Users\pkcile\Desktop\星座查询\星座查询\bin\Debug\星座查询.exe
+C:\Users\pkcile\Desktop\星座查询\星座查询\bin\Debug\星座查询.pdb
+C:\Users\pkcile\Desktop\星座查询\星座查询\obj\Debug\星座查询.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\星座查询\星座查询\obj\Debug\星座查询.Form1.resources
+C:\Users\pkcile\Desktop\星座查询\星座查询\obj\Debug\星座查询.Properties.Resources.resources
+C:\Users\pkcile\Desktop\星座查询\星座查询\obj\Debug\星座查询.csproj.GenerateResource.Cache
+E:\【C#】\星座查询\bin\Debug\星座查询.exe.config
+E:\【C#】\星座查询\obj\Debug\星座查询.exe
+E:\【C#】\星座查询\obj\Debug\星座查询.pdb
+E:\【C#】\星座查询\bin\Debug\星座查询.exe
+E:\【C#】\星座查询\bin\Debug\星座查询.pdb
+E:\【C#】\星座查询\obj\Debug\星座查询.csprojResolveAssemblyReference.cache
+E:\【C#】\星座查询\obj\Debug\星座查询.Form1.resources
+E:\【C#】\星座查询\obj\Debug\星座查询.Properties.Resources.resources
+E:\【C#】\星座查询\obj\Debug\星座查询.csproj.GenerateResource.Cache
+E:\【C#】\学校课堂\19-9-20\星座查询\bin\Debug\星座查询.exe.config
+E:\【C#】\学校课堂\19-9-20\星座查询\obj\Debug\星座查询.exe
+E:\【C#】\学校课堂\19-9-20\星座查询\obj\Debug\星座查询.pdb
+E:\【C#】\学校课堂\19-9-20\星座查询\bin\Debug\星座查询.exe
+E:\【C#】\学校课堂\19-9-20\星座查询\bin\Debug\星座查询.pdb
+E:\【C#】\学校课堂\19-9-20\星座查询\obj\Debug\星座查询.csprojResolveAssemblyReference.cache
+E:\【C#】\学校课堂\19-9-20\星座查询\obj\Debug\星座查询.Form1.resources
+E:\【C#】\学校课堂\19-9-20\星座查询\obj\Debug\星座查询.Properties.Resources.resources
+E:\【C#】\学校课堂\19-9-20\星座查询\obj\Debug\星座查询.csproj.GenerateResource.Cache
+E:\C#\代码\课堂-作业\王朋坤190920\星座查询\bin\Debug\星座查询.exe.config
+E:\C#\代码\课堂-作业\王朋坤190920\星座查询\obj\Debug\星座查询.exe
+E:\C#\代码\课堂-作业\王朋坤190920\星座查询\obj\Debug\星座查询.pdb
+E:\C#\代码\课堂-作业\王朋坤190920-星座查询\星座查询\bin\Debug\星座查询.exe.config
+E:\C#\代码\课堂-作业\王朋坤190920-星座查询\星座查询\obj\Debug\星座查询.exe
+E:\C#\代码\课堂-作业\王朋坤190920-星座查询\星座查询\obj\Debug\星座查询.pdb

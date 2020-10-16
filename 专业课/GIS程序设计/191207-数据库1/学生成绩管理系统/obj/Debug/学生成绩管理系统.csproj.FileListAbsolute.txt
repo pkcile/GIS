@@ -1,0 +1,51 @@
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form1.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.Properties.Resources.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.csproj.GenerateResource.Cache
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form2.resources
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form3.resources
+C:\Users\pkcile\Documents\Visual Studio 2013\Projects\学生成绩管理系统\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form4.resources
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.exe
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.pdb
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form1.resources
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form2.resources
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form3.resources
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form4.resources
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.Properties.Resources.resources
+C:\Users\pkcile\Desktop\学生成绩管理xiton\学生成绩管理系统\obj\Debug\学生成绩管理系统.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.exe
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.pdb
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form1.resources
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form2.resources
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form3.resources
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form4.resources
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.Properties.Resources.resources
+C:\Users\pkcile\Desktop\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.csproj.GenerateResource.Cache
+E:\C#\代码\课堂-作业\王朋坤191207\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+E:\C#\代码\课堂-作业\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.exe
+E:\C#\代码\课堂-作业\王朋坤191207\学生成绩管理系统\obj\Debug\学生成绩管理系统.pdb
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.exe
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.pdb
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.csprojResolveAssemblyReference.cache
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form1.resources
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form2.resources
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form3.resources
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.Form4.resources
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.Properties.Resources.resources
+E:\C#\代码\课堂-作业\王朋坤191207-数据库1\学生成绩管理系统\obj\Debug\学生成绩管理系统.csproj.GenerateResource.Cache

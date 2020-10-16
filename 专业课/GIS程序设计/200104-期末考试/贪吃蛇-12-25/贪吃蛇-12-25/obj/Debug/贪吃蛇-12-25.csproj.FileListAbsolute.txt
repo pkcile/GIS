@@ -1,0 +1,51 @@
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.pdb
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csprojResolveAssemblyReference.cache
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Form1.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Properties.Resources.resources
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csproj.GenerateResource.Cache
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+c:\users\pkcile\documents\visual studio 2013\Projects\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Form1.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Form1.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\王朋坤191231\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\王朋坤191231\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\王朋坤191231\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.pdb
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Form1.resources
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Properties.Resources.resources
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csproj.GenerateResource.Cache
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe.config
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.exe
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.pdb
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.exe
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\bin\Debug\贪吃蛇-12-25.pdb
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csprojResolveAssemblyReference.cache
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Form1.resources
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇_12_25.Properties.Resources.resources
+E:\5_sum\大二\C#\代码\期末作业\贪吃蛇\贪吃蛇-12-25\贪吃蛇-12-25\obj\Debug\贪吃蛇-12-25.csproj.GenerateResource.Cache

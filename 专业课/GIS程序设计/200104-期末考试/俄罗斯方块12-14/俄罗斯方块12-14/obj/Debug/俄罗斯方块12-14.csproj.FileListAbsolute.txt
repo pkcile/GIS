@@ -1,0 +1,57 @@
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.ahhaha.resources
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.Properties.Resources.resources
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\【C#】复习资料\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】复习资料\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.kuang.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.kuang.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\【代码】方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.kuang.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.Properties.Resources.resources
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\【C#】期末\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csproj.GenerateResource.Cache
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\王朋坤191231\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\王朋坤191231\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\文件\【C#】\基础内容\王朋坤191231\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.pdb
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csprojResolveAssemblyReference.cache
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.kuang.resources
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.Properties.Resources.resources
+C:\Users\pkcile\Desktop\work space\【C#】\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csproj.GenerateResource.Cache
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe.config
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.exe
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.pdb
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.exe
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\bin\Debug\俄罗斯方块12-14.pdb
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csprojResolveAssemblyReference.cache
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.kuang.resources
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12_14.Properties.Resources.resources
+E:\5_sum\大二\C#\代码\期末作业\方块\俄罗斯方块12-14\俄罗斯方块12-14\obj\Debug\俄罗斯方块12-14.csproj.GenerateResource.Cache
